@@ -1,3 +1,9 @@
+## Dashboard Preview
+
+![Overview](dashboard-overview.png)
+![KPI](kpi-overview.png)
+![Category](category-analysis.png)
+
 # Retail Performance Dashboard (Qlik Sense)
 
 ## Overview
