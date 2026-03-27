@@ -26,3 +26,8 @@ This dashboard helps stakeholders understand sales trends, identify top-performi
 
 ## Purpose
 Portfolio project demonstrating business intelligence and data visualization skills.
+
+## Results
+- Identified top-performing product categories
+- Highlighted key customers contributing to profit
+- Provided insights into sales trends and seasonal patterns
